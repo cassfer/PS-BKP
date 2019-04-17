@@ -4,7 +4,7 @@ color 17
 
 title BKP IN STARTUP
 
-if exist "%AppData%\Microsoft\Windows\Start Menu\Programs\Startup\PSBK.lnk" (
+if exist "%AppData%\Microsoft\Windows\Start Menu\Programs\Startup\PSBK.exe.lnk" (
 
 color 27
 
